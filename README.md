@@ -56,6 +56,6 @@ repeated cross-validation, a wider set of metrics and a decision-threshold analy
 
 ## Project history
 This project began as a university project in 2023 (single 80/20 split, accuracy only, zeros treated as real values). The original
-notebook is kept unchanged in `notebooks/original_2023/`. In 2026 I rebuilt it with data-quality handling, repeated cross-validation,
+notebook is kept unchanged in this repository as Version 1. In 2026 I rebuilt it with data-quality handling, repeated cross-validation,
 additional metrics and a threshold analysis. The original accuracy of about 77% turned out to be consistent with the corrected
 estimate, but the comparison between models and the handling of missing values were not reliable.
